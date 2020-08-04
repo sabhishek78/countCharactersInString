@@ -1,4 +1,4 @@
-// Count characters in your string and return a string object
+// Count characters in your string and return an object
 function count(string){
 let result=new Object();
 for(let i=0;i<string.length;i++){
